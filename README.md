@@ -1,3 +1,3 @@
 # goan
 goan
-this is the readmefile for Goan. v
+this is the readmefile for Goan
